@@ -11,5 +11,5 @@ function update(previewPic){
 function undo(){
   var x = document.getElementById('image');
   document.getElementById('image').style.backgroundImage = "url('')";
-  x.innerHTML = x"Hover over an image below to display here";
+  x.innerHTML = "Hover over an image below to display here";
 }
